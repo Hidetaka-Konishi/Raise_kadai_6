@@ -29,3 +29,8 @@ https://calculator.aws/#/estimate?id=e5c466dd94717dfa5dac9ab4c4d7656019fbf163
 ### AWSアカウントの利用は今月からで先月の情報がないため、今月の保留中の請求情報を以下に載せます
 
 ![](./image/cost.png)
+
+## EC2の請求情報
+### EC2の請求額はUSD 0.00で、現在は無料利用枠の範囲である750時間/月に収まっている。
+
+![](./image/ec2_cost.png)
